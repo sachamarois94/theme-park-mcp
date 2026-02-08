@@ -2,3 +2,4 @@ mcp[cli]==1.15.0
 httpx
 uvicorn
 starlette
+psycopg2-binary
